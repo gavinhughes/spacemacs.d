@@ -7,7 +7,7 @@
 
 * About this file
 
-This entagled source file configures Spacemacs. To use it, replace the two generated functions in `.spacemacs` with these:
+This entagled source file configures Spacemacs. To use it, replace the two generated functions in ~.spacemacs~ with these:
 
 #+begin_src emacs-lisp :tangle no
 (defun dotspacemacs/user-init ()
